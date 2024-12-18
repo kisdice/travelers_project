@@ -1,6 +1,11 @@
 # travelers_projects
 
 A new Flutter project.
+목적 - 여행 계획 대신 세워주는 프로젝트
+기반 기능
+1. 일정, 국가만 입력 시 패키지 여행처럼 코스 제안
+2. 일정만 입력 시 싸게 갈 수 있는 항공권을 조회하여 나라까지 추천
+
 
 ## Getting Started
 
